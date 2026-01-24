@@ -87,8 +87,12 @@ template-hustlecodex-starter/
 
 ### Update Social Links
 
-Replace the placeholder links in the "Join the Hustle" section:
+Replace the placeholder links in the "Join the Hustle" section of `index.html`:
+
+**Note:** These are example placeholder URLs that need to be replaced with your actual links:
+
 ```html
+<!-- Replace these placeholder URLs with your actual links -->
 <a href="https://discord.gg/yourdiscordlink" target="_blank">💬 Discord</a>
 <a href="https://youtube.com/@HustleCodeX" target="_blank">▶ YouTube</a>
 <a href="https://gofund.me/yourcampaign" target="_blank">❤️ Donate</a>
@@ -159,8 +163,8 @@ This template is provided as-is for use with the HustleCode project. Customize a
 
 ## 💬 Support
 
-- **Discord:** Join the community (update link in index.html)
-- **YouTube:** Watch tutorials and updates
+- **Discord:** Join the community (replace placeholder link `discord.gg/yourdiscordlink` in index.html with your actual Discord invite)
+- **YouTube:** Watch tutorials and updates (update `@HustleCodeX` handle if needed)
 - **Issues:** Report bugs or request features on GitHub
 
 ## 🎯 About HustleCode
