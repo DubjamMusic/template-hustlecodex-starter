@@ -184,7 +184,7 @@ h2 {
 /* Social Links */
 .social-links {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
   margin-top: 2rem;
 }
@@ -227,7 +227,7 @@ h2 {
 }
 
 .social-card:hover {
-  transform: translateY(-8px) scale(1.02);
+  transform: translateY(-8px);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
 }
 
