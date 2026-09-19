@@ -26,7 +26,7 @@ for (const rel of manifest.knownEmpty) {
   if (statSync(p).size === 0) emptyHits += 1;
 }
 if (emptyHits !== manifest.knownEmpty.length) {
-  throw new Error(`empty-blob count drift: ${emptyHits}");
+  throw new Error(`empty-blob count drift: ${emptyHits}`);
 }
 
 console.log("ok scaffold-wright kit");
