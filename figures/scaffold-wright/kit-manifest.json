@@ -1,0 +1,22 @@
+{
+  "waveId": "2026-09-19-d-lattice",
+  "figureId": "scaffold-wright",
+  "repo": "DubjamMusic/template-hustlecodex-starter",
+  "mergePolicy": "pr-only",
+  "requiredLive": ["README.md", "index.html", "style.css"],
+  "knownEmpty": [
+    "HustleCode_StarterCodex_AllInOne.zip",
+    "docs/HustleCode_Faction_Cards.pdf",
+    "docs/HustleCode_Hardware_Quickstart.pdf",
+    "docs/HustleCode_Pitch_Flyer.pdf",
+    "docs/HustleCode_Starter_Bundle_v3.zip",
+    "docs/HustleCode_Starter_Codex_v3.pdf",
+    "docs/banner.png",
+    "docs/file1.md",
+    "docs/file2.md",
+    "docs/file3.md",
+    "docs/file4.md",
+    "docs/file5.md"
+  ],
+  "splitIssue": "refill-zero-byte-docs"
+}
