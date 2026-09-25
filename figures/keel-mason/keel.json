@@ -1,0 +1,18 @@
+{
+  "figureId": "keel-mason",
+  "codename": "KEEL-MASON-25",
+  "waveId": "2026-09-25-j-keel",
+  "repo": "DubjamMusic/template-hustlecodex-starter",
+  "role": "Bind the starter kit keel as a scored launch card.",
+  "knowledge": [
+    "index.html and style.css are the public face, not this wave's rewrite surface",
+    "Keel is a density card, not a zip rebuild",
+    "Empty docs stubs stay on a separate issue"
+  ],
+  "sample": {"N": 8.0, "V": 8.5, "S": 7.5, "D": 8.0},
+  "weights": {"N": 0.30, "V": 0.20, "S": 0.20, "D": 0.30},
+  "expectedDensity": 7.994,
+  "bannedTokens": ["planner", "executor", "monitor", "data_agent"],
+  "predecessorNotThisWave": "scaffold-wright",
+  "mergePolicy": "pr-only"
+}
