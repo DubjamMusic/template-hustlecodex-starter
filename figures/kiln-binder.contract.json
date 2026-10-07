@@ -1,0 +1,21 @@
+{
+  "waveId": "Q-keel-20261007",
+  "figureId": "kiln-binder",
+  "role": "Starter kiln binder",
+  "repo": "template-hustlecodex-starter",
+  "primaryPath": "figures/kiln-binder.contract.json",
+  "knowledgeRequired": [
+    "Next.js starter layout without rewriting empty PDF stubs",
+    "Prestige fields Nodes, Velocity, Streak, Decision",
+    "Geometric-mean density, weights must sum to 1",
+    "No secrets, no boardroom enum tokens"
+  ],
+  "responsibilities": [
+    "Bind a starter checklist to a density keel",
+    "Reject weight sets that do not sum to 1",
+    "Leave docs/*.pdf and empty fileN.md untouched"
+  ],
+  "weights": { "nodes": 0.35, "velocity": 0.25, "streak": 0.2, "decision": 0.2 },
+  "checklist": ["readme", "index", "style", "no-secret-env"],
+  "mergePolicy": "pr-only"
+}
